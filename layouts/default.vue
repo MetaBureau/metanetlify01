@@ -6,8 +6,7 @@
       aria-label="main navigation"
     >
       <div class="navbar-brand">
-        <a class="navbar-item" href="/"> MetaBureau 4 You </a>
-
+        <a class="navbar-item" href="/"> MetaBureau 4 You Today</a>
         <div class="navbar-burger">
           <span />
           <span />
