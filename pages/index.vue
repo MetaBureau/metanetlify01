@@ -50,9 +50,9 @@
                 Oversight and service procurement management
               </dt>
               <dd class="is-size-4 mb-4">
-                Assistance with managemnt and procurement of third party service
-                providers such as graphic designers, software developers and SEO
-                consulatants.
+                Assistance with management and procurement of third party
+                service providers such as graphic designers, software developers
+                and SEO consulatants.
               </dd>
             </dl>
           </div>
