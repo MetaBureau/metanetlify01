@@ -7,8 +7,6 @@
         Technical, strategic and creative digital design services
       </h3>
       <dl>
-        <dt class="is-size-3 is-3">Information Architecture</dt>
-        <dd class="is-size-4 mb-4">Hierarchy, taxonomy, data types ...</dd>
         <dt class="is-size-3">Audit and Review</dt>
         <dd class="is-size-4 mb-4">
           Survey of existing digital presence and assessment with regard to
