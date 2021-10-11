@@ -7,15 +7,17 @@
         Technical, strategic and creative digital design services
       </h3>
       <dl>
-        <dt class="subtitle is-3">Information Architecture</dt>
-        <dd>Hierarchy, taxonomy, data types ...</dd>
+        <dt class="is-size-3 is-3">Information Architecture</dt>
+        <dd class="is-size-4 mb-4">Hierarchy, taxonomy, data types ...</dd>
         <dt class="is-size-3">Audit and Review</dt>
         <dd class="is-size-4 mb-4">
-          Survey of existintg digital presence and assessment with regard to
-          organisation goals.
+          Survey of existing digital presence and assessment with regard to
+          organisational goals.
         </dd>
         <dt class="is-size-3">Information Architecture</dt>
-        <dd class="is-size-4 mb-4">Hierarchy, taxonomy, data types ...</dd>
+        <dd class="is-size-4 mb-4">
+          Modelling and specification of hierarchy, taxonomy, data-types.
+        </dd>
         <dt class="is-size-3">Rapid Iterative Prototyping</dt>
         <dd class="is-size-4 mb-4">
           Development of navigable prototypes to assess performane of design
