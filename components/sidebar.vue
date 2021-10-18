@@ -10,7 +10,7 @@
       mobile="fullWidth"
       class="is-flex is-flex-direction-column"
     >
-      <form
+      <!-- <form
         class="is-flex-grow-1"
         name="contact"
         method="POST"
@@ -37,7 +37,7 @@
         <p>
           <button type="submit">Send</button>
         </p>
-      </form>
+      </form> -->
       <!-- <b-menu>
           <b-menu-list label="Menu">
             <b-menu-item icon="information-outline" label="Info"></b-menu-item>
