@@ -135,11 +135,10 @@ export default {
 }
 </script>
 
-<style>
-.p-1 {
-  padding: 1em;
-}
-.m-auto {
-  margin-top: auto;
-}
+<style lang="sass" scoped>
+// .p-1
+//   padding: 1em
+
+.m-auto
+  margin-top: auto
 </style>
