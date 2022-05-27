@@ -60,7 +60,7 @@
               <dt class="is-size-4">Rapid Iterative Prototyping</dt>
               <dd class="is-size-5 mb-4">
                 Development of navigable prototypes to assess performance of
-                design prior to commiting to a full bulid.
+                design prior to commiting to a full build.
               </dd>
               <dt class="is-size-4">Web Site Design and Development</dt>
               <dd class="is-size-5 mb-4">
@@ -70,7 +70,7 @@
               <dt class="is-size-4">eCommerce Development</dt>
               <dd class="is-size-5 mb-4">
                 Design and development of eCommerce websites in various
-                platfroms including Shopify, Magento, Big Commerce, ECWID.
+                platforms including Shopify, Magento, Big Commerce, ECWID.
               </dd>
               <dt class="is-size-4">
                 Oversight and service procurement management
@@ -78,7 +78,7 @@
               <dd class="is-size-5 mb-4">
                 Assistance with management and procurement of third party
                 service providers such as graphic designers, software developers
-                and SEO consulatants.
+                and SEO consultants.
               </dd>
             </dl>
           </div>
