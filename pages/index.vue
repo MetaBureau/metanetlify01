@@ -1,8 +1,8 @@
 <template>
   <div>
-    <section class="hero is-small is-primary">
+    <section class="hero is-medium is-primary">
       <div class="hero-body">
-        <div class="columns is-desktop">
+        <div class="container has-text-centered">
           <div class="column">
             <h1 class="title is-2">
               MetaBureau: A mulitdisciplinary digital consultancy
@@ -19,7 +19,7 @@
     <section class="section container">
       <div class="">
         <div class="columns is-desktop">
-          <div class="column">
+          <div class="column is-four-fifths">
             <!--
             <div class="dropdown is-up is-hoverable">
               <div class="dropdown-trigger">
@@ -81,6 +81,9 @@
                 and SEO consulatants.
               </dd>
             </dl>
+          </div>
+          <div class="column">
+            <h5>Tel: 0490-100-028</h5>
           </div>
         </div>
       </div>
