@@ -20,6 +20,7 @@
       <div class="">
         <div class="columns is-desktop">
           <div class="column">
+            <!--
             <div class="dropdown is-up is-hoverable">
               <div class="dropdown-trigger">
                 <button
@@ -44,6 +45,7 @@
                 </div>
               </div>
             </div>
+            -->
             <h3 class="title is-3">Services include ...</h3>
             <dl>
               <dt class="is-size-3">Audit and Review</dt>

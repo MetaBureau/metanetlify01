@@ -1,6 +1,8 @@
 <template>
   <div>
-    <HeaderNavbar />
+    <!--  
+  <HeaderNavbar />  
+  -->
 
     <section class="main-content">
       <nuxt />
